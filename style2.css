@@ -1,0 +1,24 @@
+/* div{
+    height: 100px;;
+    width:100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display:inline-block;
+}
+
+body{
+    height: 100px;
+
+    background-image:url("samantha-gades-BlIhVfXbi9s-unsplash.jpg");
+    background-size:auto;
+} */
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("aboltabol.jpg");
+    background-size: cover;
+    color:rgb(230, 233, 233);
+    position: fixed;
+    right:0px;
+    top:100px;
+}

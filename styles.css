@@ -1,0 +1,144 @@
+/* *{
+    margin: 0;
+    padding:0;
+    background-color:rgba(37, 116, 79, 0.151);
+}
+h1{
+    margin: 0;
+    padding: 0;
+    color:rgb(61, 14, 14);
+
+}
+p{
+    background-color:rgb(142, 129, 155);
+    color:aquamarine;
+    box-sizing: border-box;
+}
+button{
+    color:rgb(32, 25, 25);
+    background-color:rgba(0, 107, 89, 0.76);
+    margin:50px ;
+    padding:0px;
+    
+}
+body{
+    
+    background: ;
+  
+} 
+*{
+    color:aqua;
+}
+button{
+    color:chocolate;
+}
+#heading1{
+    color:aquamarine;
+}
+#heading2{
+    color:blue;
+
+}
+#heading3{
+    color:blueviolet;
+
+}
+.myclass{
+    color:burlywood;
+}
+#box{
+    background-color: blue;
+    color:antiquewhite;
+}
+h1,h2,h3{
+    color:red;
+}
+button{
+    color:blue;
+}
+p{
+    text-align:center;
+    text-decoration: blue dotted underline;
+
+
+}
+h1{
+    text-align:center;
+} 
+a{
+    text-decoration:none;
+}
+#h1{
+    font-weight:normal;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight:bolder ;
+
+}
+#one{
+    font-family: arial ;
+}
+#two{
+    font-family: 'Segoe UI';
+}
+#one{
+    font-size:26px;
+    line-height:normal;
+    text-transform: capitalize;
+
+
+}
+#three{
+    font-size:1px;
+}
+*{
+    font-family:"times new roman";
+}
+h1{
+    text-align: center;
+    text-transform:capitalize;
+    
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+}*/
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    /* border-width:2px;
+    border-style:dashed;
+    border-color:bisque; */
+    border: 2px solid rgb(240, 144, 0);
+    
+    /* padding-left:25px;
+    padding-right: 25px;*/
+    padding:25px; 
+    margin-top:50px;
+    
+    margin :50px;
+ 
+
+}
+/* h1{
+    height: 55px;;
+    width:150px;
+
+    /* border-width: 30px; 
+    background-color: brown; 
+    border: 3px dashed brown;
+    border-radius: 10px;
+    text-align: center;
+
+} */
+
+
